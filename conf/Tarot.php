@@ -16,6 +16,9 @@ class tarot extends master {
             case 'El Tonto':
                 $this->significado = "Nuevos comienzos, libertad, aventura, imprudencia";
                 break;
+            case 'El Mago':
+                $this->significado = "Habilidad, concentración, poder, acción";
+                break;
             default:
                 $this->significado = "Esa carta no existe";
                 break;
