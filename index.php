@@ -1,0 +1,1 @@
+<a href="tarot">TAROT</a>
