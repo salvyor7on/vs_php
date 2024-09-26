@@ -19,6 +19,9 @@ class tarot extends master {
             case 'El Mago':
                 $this->significado = "Habilidad, concentración, poder, acción";
                 break;
+            case 'La Sacerdotisa':
+                $this->significado = "Sabiduría, Intuición, Misterio, Conocimiento interior";
+                break;
             default:
                 $this->significado = "Esa carta no existe";
                 break;
