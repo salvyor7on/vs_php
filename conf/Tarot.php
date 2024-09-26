@@ -22,6 +22,9 @@ class tarot extends master {
             case 'La Sacerdotisa':
                 $this->significado = "Sabiduría, Intuición, Misterio, Conocimiento interior";
                 break;
+            case 'La Emperatriz':
+                $this->significado = "Abundancia, fertilidad, creatividad, naturaleza";
+                break;
             default:
                 $this->significado = "Esa carta no existe";
                 break;
